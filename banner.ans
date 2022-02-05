@@ -1,0 +1,24 @@
+import base64;
+
+base64.b64encode(
+bytes('''   _______  _______  _______   ___ ___ ___ ___ _______       '''.ljust(80),'ascii')+  
+bytes('''  |   _   \|   _   \|   _   | |   Y   |   Y   |   _   \      '''.ljust(80),'ascii')+
+bytes('''  |.  1   /|.  1   /|   1___| |.  1   |.  |   |.  1   /      '''.ljust(80),'ascii')+
+bytes('''  |.  _   \|.  _   \|____   | |.  _   |.  |   |.  _   \      '''.ljust(80),'ascii')+
+bytes('''  |:  1    |:  1    |:  1   | |:  |   |:  1   |:  1    \     '''.ljust(80),'ascii')+
+bytes('''  |::.. .  |::.. .  |::.. . | |::.|:. |::.. . |::.. .  /     '''.ljust(80),'ascii')+
+bytes('''  `-------'`-------'`-------' `--- ---`-------`-------'      '''.ljust(80),'ascii')+ 
+bytes('''                                                             '''.ljust(80),'ascii')+
+bytes('''  ___ _______       __             __    ___ ___          __ '''.ljust(80),'ascii')+ 
+bytes('''.'  _|       .-----|  .-----.-----|  |_ |   Y   .-----.--|  |'''.ljust(80),'ascii')+ 
+bytes('''|   _|.|   | |  -__|  |     |  -__|   _||.      |  _  |  _  |'''.ljust(80),'ascii')+ 
+bytes('''|__| `-|.  |-|_____|__|__|__|_____|____||. \_/  |_____|_____|'''.ljust(80),'ascii')+ 
+bytes('''       |:  |                            |:  |   |            '''.ljust(80),'ascii')+
+bytes('''       |::.|                            |::.|:. |            '''.ljust(80),'ascii')+
+bytes('''       `---'                            `--- ---'            '''.ljust(80),'ascii')+ 
+bytes('''                                                             '''.ljust(80),'ascii')+
+bytes('''                                                             '''.ljust(80),'ascii')+
+bytes('''                                                             '''.ljust(80),'ascii')+
+bytes('''                                                             '''.ljust(80),'ascii')+
+bytes(''' https://www.ftelnet.ca                                      '''.ljust(80),'ascii')
+)
